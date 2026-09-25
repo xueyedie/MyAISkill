@@ -1,0 +1,4 @@
+interface:
+  display_name: "保真去水印高清 2×"
+  short_description: "局部保真清除水印文字与 UI，等比 2× 后进行保守型轻度锐化"
+  default_prompt: "使用 $faithful-image-cleanup-2x 清理这张图片的水印、文字和 UI，保留原图细节并输出等比 2× 轻度锐化版本。"
